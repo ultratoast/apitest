@@ -1,0 +1,32 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "messing around with the mean stack",
+  "main": "app.js",
+  "dependencies": {
+    "angular": "^1.3.10",
+    "ejs": "^2.2.3",
+    "express": "^4.11.1",
+    "mongoose": "^3.8.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ultratoast/apitest.git"
+  },
+  "keywords": [
+    "node",
+    "angular",
+    "mongo",
+    "express"
+  ],
+  "author": "John Perea john@metaworks.co",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ultratoast/apitest/issues"
+  },
+  "homepage": "https://github.com/ultratoast/apitest"
+}
